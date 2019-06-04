@@ -1,4 +1,4 @@
-# MAC-286-Project
+# LAGCC Data Structures Project
 ## Get Started
 #### Required:
 * Python 3.7
@@ -24,7 +24,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
 ### Step 2
-#### Then pip install:
+#### pip install:
 
 In one line
 ```
