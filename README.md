@@ -6,12 +6,11 @@
 * Pandas
 * Matplotlib
 * Numpy
-
+### Step 1
 #### Recommended Method
-Install from [Anaconda](https://www.anaconda.com/distribution/)
+Install from [Anaconda](https://www.anaconda.com/distribution/) and then go to step 3
   
 #### Or install everything independently
-### Step 1
 #### Windows:
 Download [Python](https://www.python.org/downloads/) which comes with pip
 
