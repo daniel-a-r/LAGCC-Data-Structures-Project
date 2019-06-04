@@ -32,6 +32,9 @@ pip install jupyter pandas matplotlib numpy
 ```
 one by one
 ```
+pip install jupyter
+```
+```
 pip install matplotlib 
 ```
 ```
@@ -40,11 +43,9 @@ pip install numpy
 ```
 pip install pandas 
 ```
-```
-pip install jupyter
-```
 ### Step 3
-Clone or download repo and run PowerShell/Terminal at the folder location and run
+Clone or download the repo and run PowerShell/Terminal at the folder location and run
 ```
 jupyter notebook
 ```
+Click on 'LAGCC Data Structures Project.ipynb'
